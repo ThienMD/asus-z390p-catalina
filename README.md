@@ -27,7 +27,7 @@ Replace: A00A910A FF0BFFFF
 If you don't do that, You will get a bug nvme assert error ...
 * Patch DSDT
 When you in Clover boot screen, you press F4 to genegrate a original DSDT, It will be located in: EFI/Clover/
-
+... tobe continue
 ### Relavants: 
 * Tonymac:
 * Hackintosher
