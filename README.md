@@ -28,6 +28,9 @@ If you don't do that, You will get a bug nvme assert error ...
 * Patch DSDT
 When you in Clover boot screen, you press F4 to genegrate a original DSDT, It will be located in: EFI/Clover/
 ... tobe continue
+### Tools will need for hackintosh
+* Hackintool: Use to patch apple framebuffer, when you want to use hdmi, display port integrated.
+* Clover Configurator: Mount EFI Partion (This is a place to contain clover boot loader, we will use this tool very much 
 ### Relavants: 
 * Tonymac:
 * Hackintosher
