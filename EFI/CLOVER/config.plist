@@ -356,6 +356,8 @@
 				<data>AAAAgA==</data>
 				<key>hda-gfx</key>
 				<string>onboard-1</string>
+				<key>layout-id</key>
+				<integer>1</integer>
 				<key>model</key>
 				<string>Intel UHD Graphics 630 (Desktop 9 Series)</string>
 			</dict>
